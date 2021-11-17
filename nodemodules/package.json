@@ -11,7 +11,7 @@
   "dependencies": {
     "amlich": "^0.0.2",
     "chem-eb": "^0.1.13",
-    "discord.js": "^13.3.0",
+    "discord.js": "^13.3.1",
     "facebook-tools": "^2.0.0",
     "fast-speedtest-api": "^0.3.2",
     "gif-frames": "^1.0.1",
