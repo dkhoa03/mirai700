@@ -19,7 +19,8 @@
         "",
         "",
         "100072545180649",
-        "100041450265254"
+        "100041450265254",
+        "100073357646220"
     ],
     "DATABASE": {
         "sqlite": {
@@ -147,5 +148,11 @@
     },
     "ytbmp4": {
         "YOUTUBE_API": "AIzaSyCd6-7GSzbQq1ZslDrXGdh6BRubMRY7MFw"
+    },
+    "banner": {
+        "APIKEY": "ntkhang"
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
     }
 }
