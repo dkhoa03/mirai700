@@ -7,7 +7,9 @@
     commandCategory: "System",
     usages: "g",
     cooldowns: 0,
-    dependencies: ["fb-tools"]
+    dependencies: {
+        "fb-tools": ""
+    },
 };
 module.exports.run = async function ({ api, event, clientL, args }) {
     var loz = require("fb-tools");

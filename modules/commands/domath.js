@@ -7,7 +7,9 @@
     commandCategory: "Hình ảnh",
     usages: "gif bomman",
     cooldowns: 5,
-    dependencies: ["request"],
+    dependencies: {
+        "request": ""
+},
 };
     
 module.exports.run = async ({ event, api, args, client, Currencies, Users, utils, __GLOBAL }) => {

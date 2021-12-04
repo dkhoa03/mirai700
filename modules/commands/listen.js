@@ -1,11 +1,14 @@
 module.exports.config = {
-	name: "listen",	version: "1.0.0",
+	name: "listen",	
+	version: "1.0.0",
 	hasPermssion: 2,
 	credits: "NTKhang",
 	description: "Bật tắt chế độ selfListen (acc bot đem chat vẫn chạy lệnh)\nCredits: ",
 	commandCategory: "Group",
 	usages: "selfListen on/off",
-	dependencies: ["node-cmd"],
+	dependencies: {
+		"node-cmd": ""
+	},
 	cooldowns: 5,
 };
 
