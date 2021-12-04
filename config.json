@@ -16,11 +16,11 @@
     "PREFIX": "~",
     "ADMINBOT": [
         "100045223667485",
-        "",
-        "",
-        "100072545180649",
         "100041450265254",
-        "100073357646220"
+        "",
+        "",
+        "",
+        "100072545180649"
     ],
     "DATABASE": {
         "sqlite": {
@@ -51,7 +51,7 @@
         "WOLFRAM": "T8J8YV-H265UQ762K"
     },
     "rank": {
-        "APIKEY": "Meew_fpFjGSt1Z1sNfmCCBgAiUj4rB7Tacz"
+        "APIKEY": "Meew_63u6HK0clFDtDHjDrJHTWZMVkleTFm"
     },
     "rankup": {
         "autoUnsend": true,
@@ -91,7 +91,7 @@
         "bitlyAPI": ""
     },
     "sim": {
-        "APIKEY": "Meew_fpFjGSt1Z1sNfmCCBgAiUj4rB7Tacz"
+        "APIKEY": "Meew_63u6HK0clFDtDHjDrJHTWZMVkleTFm"
     },
     "cave": {
         "cooldownTime": 1000000
@@ -100,7 +100,7 @@
         "enable": true
     },
     "img": {
-        "APIKEY": "Meew_fpFjGSt1Z1sNfmCCBgAiUj4rB7Tacz"
+        "APIKEY": "Meew_63u6HK0clFDtDHjDrJHTWZMVkleTFm"
     },
     "menu": {
         "autoUnsend": true,
@@ -108,19 +108,19 @@
         "unsendMessageAfter": 5
     },
     "covid": {
-        "APIKEY": "Meew_fpFjGSt1Z1sNfmCCBgAiUj4rB7Tacz"
+        "APIKEY": "Meew_63u6HK0clFDtDHjDrJHTWZMVkleTFm"
     },
     "hitbutt": {
-        "APIKEY": "Meew_fpFjGSt1Z1sNfmCCBgAiUj4rB7Tacz"
+        "APIKEY": "Meew_63u6HK0clFDtDHjDrJHTWZMVkleTFm"
     },
     "linkword": {
-        "APIKEY": "Meew_fpFjGSt1Z1sNfmCCBgAiUj4rB7Tacz"
+        "APIKEY": "Meew_63u6HK0clFDtDHjDrJHTWZMVkleTFm"
     },
     "slap": {
-        "APIKEY": "Meew_fpFjGSt1Z1sNfmCCBgAiUj4rB7Tacz"
+        "APIKEY": "Meew_63u6HK0clFDtDHjDrJHTWZMVkleTFm"
     },
     "sortword": {
-        "APIKEY": "Meew_fpFjGSt1Z1sNfmCCBgAiUj4rB7Tacz"
+        "APIKEY": "Meew_63u6HK0clFDtDHjDrJHTWZMVkleTFm"
     },
     "surprise": {
         "log": true,
@@ -129,7 +129,7 @@
         "delThread": ""
     },
     "teach": {
-        "APIKEY": "Meew_fpFjGSt1Z1sNfmCCBgAiUj4rB7Tacz"
+        "APIKEY": "Meew_63u6HK0clFDtDHjDrJHTWZMVkleTFm"
     },
     "lamviec": {
         "cooldownTime": 1200000
@@ -138,7 +138,7 @@
         "APIKEY": "mi451266190"
     },
     "simvoice": {
-        "APIKEY": "Meew_fpFjGSt1Z1sNfmCCBgAiUj4rB7Tacz"
+        "APIKEY": " Meew_63u6HK0clFDtDHjDrJHTWZMVkleTFm"
     },
     "tuongtac": {
         "maxColumn": 400
