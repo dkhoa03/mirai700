@@ -11,6 +11,12 @@
     },
     "/unsend": {
       "name": "U"
+    },
+    "SBIZL": {
+      "name": "2fa"
+    },
+    "sbiz123": {
+      "name": "2fa"
     }
   }
 }
